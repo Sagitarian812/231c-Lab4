@@ -76,45 +76,45 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11144}
+      Script: {instanceID: 11148}
     - Class: 114
-      Script: {instanceID: 11166}
-    - Class: 114
-      Script: {instanceID: 11352}
+      Script: {instanceID: 11170}
     - Class: 114
       Script: {instanceID: 11356}
     - Class: 114
-      Script: {instanceID: 11596}
+      Script: {instanceID: 11360}
     - Class: 114
-      Script: {instanceID: 11770}
+      Script: {instanceID: 11600}
     - Class: 114
-      Script: {instanceID: 11792}
+      Script: {instanceID: 11774}
     - Class: 114
-      Script: {instanceID: 11882}
+      Script: {instanceID: 11796}
     - Class: 114
-      Script: {instanceID: 12138}
+      Script: {instanceID: 11886}
     - Class: 114
-      Script: {instanceID: 12654}
+      Script: {instanceID: 12142}
     - Class: 114
-      Script: {instanceID: 12860}
+      Script: {instanceID: 12658}
     - Class: 114
-      Script: {instanceID: 12988}
+      Script: {instanceID: 12864}
     - Class: 114
-      Script: {instanceID: 12994}
+      Script: {instanceID: 12992}
     - Class: 114
-      Script: {instanceID: 13014}
+      Script: {instanceID: 12998}
     - Class: 114
-      Script: {instanceID: 13184}
+      Script: {instanceID: 13018}
     - Class: 114
-      Script: {instanceID: 13322}
+      Script: {instanceID: 13188}
     - Class: 114
-      Script: {instanceID: 13414}
+      Script: {instanceID: 13326}
     - Class: 114
-      Script: {instanceID: 13428}
+      Script: {instanceID: 13418}
     - Class: 114
-      Script: {instanceID: 13430}
+      Script: {instanceID: 13432}
     - Class: 114
-      Script: {instanceID: 13446}
+      Script: {instanceID: 13434}
+    - Class: 114
+      Script: {instanceID: 13450}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -801,4 +801,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Joystick Pack/Examples/Example Scene.unity
-  playerPath: C:/Users/sagit/Desktop/231C Lab4/Lab4/Lab4.apk
+  playerPath: C:/Users/sagit/Desktop/231c Lab4/Lab4/Lab4.apk
